@@ -27,7 +27,7 @@ h1 {
     text-align: center;
     background-color: #6943FF;
     color: white;
-    width: 20%;
+    width: 200px;
     border: 2px solid #B295FF;
     border-radius: 4px;
     padding: 10px 20px;
@@ -38,7 +38,6 @@ h1 {
     font-size: 20px;
     font-weight: 700;
     color: #1F2937;
-    width: 25%;
     margin: 0 auto;
     padding: 10px 24px;
     border-radius: 4px;
@@ -47,7 +46,7 @@ h1 {
 
 .conversion-rate {
     background-color: #273549;
-    width: 40%;
+    width: 30%;
     display: block;
     margin: 24px auto;
     padding: 24px 100px;
